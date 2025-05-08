@@ -2,8 +2,6 @@
 
 A Flask web application that displays TripAdvisor data for restaurants, hotels, and attractions in different cities with a delicious fried chicken theme.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=TripAdvisor+Explorer+Screenshot)
-
 ## Features
 
 - View TripAdvisor data for Tacoma, Seattle, and Olympia
